@@ -1,0 +1,15 @@
+# pandas
+# numpy
+# kagglehub
+# torch
+# opencv-python-headless
+# torchvision
+
+pandas>=2.0.0,<3.0.0
+numpy==1.26.4
+kagglehub
+torch>=2.0.0
+torchvision>=0.15.0
+opencv-python-headless>=4.8.0
+tensorboard
+dvc

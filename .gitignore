@@ -1,0 +1,8 @@
+venv/
+*.egg-info/
+logs/
+tensorboard_logs/
+.dvc/cache/
+.dvc/tmp/
+.env/
+artifacts/
